@@ -13,7 +13,7 @@
   #### Step 1:
    - Download project by using following command
    ```
-   git clone https://github.com/krishnawisely/facedetection-js.git
+   git clone https://github.com/saranathan-u/Face-Detection-Using-JavaScript.git
    ```
   #### Step 2:
    - Open project into VS code editor and make sure whether 🔴 [live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension installed or not, if installed right click **index.html** file then tap open with live server option.
